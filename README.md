@@ -7,7 +7,9 @@
 </p>
 
 <h3 align="left">Books & Notes:</h3>
-<a herf="https://note.justtutorial.dev">JVM出入门到精通</a>
+<p align="left">
+  <a herf="https://note.justtutorial.dev">JVM出入门到精通</a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
