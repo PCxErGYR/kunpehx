@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://kphx.notion.so">
+    <img src="https://skillicons.dev/icons?i=java,sql,docker,sql,git,docker,c,vim" />
   </a>
 </p>
 
