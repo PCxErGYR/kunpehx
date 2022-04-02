@@ -12,7 +12,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://kphx.notion.so">
-    <img src="https://skillicons.dev/icons?i=java,docker,git,docker,c,vim,idea,jenkins,linux,md,mysql,nginx,py,redis,spring,vue" />
+    <img src="https://skillicons.dev/icons?i=java,go,docker,git,docker,c,vim,idea,jenkins,linux,md,mysql,nginx,py,redis,spring,vue,html" />
   </a>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
