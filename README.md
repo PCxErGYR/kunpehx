@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://kphx.notion.so">
-    <img src="https://skillicons.dev/icons?i=java,sql,docker,sql,git,docker,c,vim,idea,jenkins,linux,md,mysql,nginx,py,redis,spring,vue" />
+    <img src="https://skillicons.dev/icons?i=java,docker,git,docker,c,vim,idea,jenkins,linux,md,mysql,nginx,py,redis,spring,vue" />
   </a>
 </p>
 
