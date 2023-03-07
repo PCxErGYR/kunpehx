@@ -15,6 +15,48 @@
     <img src="https://skillicons.dev/icons?i=java,go,docker,git,docker,c,vim,idea,jenkins,linux,md,mysql,nginx,py,redis,spring,vue,html" />
   </a>
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
--->
+### Hi there 👋
+
+[![Website Status](https://img.shields.io/website?label=https://www.nooc.ink&down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwww.nooc.ink)](https://www.nooc.ink)
+![](https://komarev.com/ghpvc/?username=noobnooc&color=brightgreen)
+
+- 🔭 I’m currently working on emo
+- 🌱 I’m currently learning to live
+- 👯 I’m looking to collaborate on love
+- 🤔 I’m looking for help with getting rich
+- 💬 Ask me about nothing
+- 📫 How to reach me: call out
+- 😄 Pronouns: that man
+- ⚡ Fun fact: I am not fun
+
+### My Stacks
+
+![](https://img.shields.io/badge/JavaScript-★★★-F7DF1E?logo=JavaScript)
+![](https://img.shields.io/badge/TypeScript-★★★-3178C6?logo=TypeScript)
+![](https://img.shields.io/badge/React-★★★-61DAFB?logo=React)
+![](https://img.shields.io/badge/CSS-★★★-1572B6?logo=CSS3)
+![](https://img.shields.io/badge/NodeJS-★★★-339933?logo=Node.js)
+![](https://img.shields.io/badge/Swift-★★-F05138?logo=Swift)
+![](https://img.shields.io/badge/Linux-★★-FCC624?logo=Linux)
+![](https://img.shields.io/badge/Git-★★-F05032?logo=Git)
+![](https://img.shields.io/badge/Docker-★★-2496ED?logo=Docker)
+![](https://img.shields.io/badge/Electron-★★-47848F?logo=Electron)
+![](https://img.shields.io/badge/MongoDB-★★-47A248?logo=MongoDB)
+
+> - ★★★: Frequently used
+> - ★★: Mostly used
+> - ★: Rarely used
+
+### Where To Find Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-noobnooc-1DA1F2?logo=Twitter&style=for-the-badge)](https://twitter.com/noobnooc)
+
+[![GitHub](https://img.shields.io/badge/GitHub-noobnooc-181717?logo=GitHub&style=for-the-badge)](https://github.com/noobnooc)
+
+[![Instagram](https://img.shields.io/badge/Instagram-noobnooc-E4405F?logo=Instagram&style=for-the-badge)](https://www.instagram.com/noobnooc/)
+
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-心月在路上Nooc-FF0000?logo=YouTube&logoColor=FF0000&style=for-the-badge)](https://www.youtube.com/channel/UCKCBrQjYOqyJ0SjRD1xTAog)
+
+[![BiliBili](https://img.shields.io/badge/BiliBili-心月在路上-00A1D6?logo=Bilibili&style=for-the-badge)](https://space.bilibili.com/11005963)
+
+[![Weibo](https://img.shields.io/badge/Weibo-心月在路上Nooc-E6162D?logo=Sina%2dWeibo&style=for-the-badge)](https://weibo.com/noobnooc) -->
